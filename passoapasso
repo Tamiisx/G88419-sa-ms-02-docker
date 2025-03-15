@@ -1,5 +1,5 @@
 
-*primeiro fizemos login no docker playground* 
+#primeiro fizemos login no docker playground# 
 depois colocamos a informação do github no docker. 
 Logo em seguida demos o comando: docker build -t otrs latest . 
 após adentrar a pasta acessamos a imagem lá dentro com o comando docker images

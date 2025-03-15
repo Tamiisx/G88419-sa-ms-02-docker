@@ -5,4 +5,4 @@ Logo em seguida demos o comando: docker build -t otrs latest .
 após adentrar a pasta acessamos a imagem lá dentro com o comando docker images
 depois demos o comando:
 docker run -d --name='online' -p 80:80 --restart=always otrs:lastet 
-isso retornou a imagem no conteiner **
+isso retornou a imagem no conteiner 
